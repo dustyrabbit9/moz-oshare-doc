@@ -51,7 +51,7 @@ Developers can contribute code to OnionShare, the source code can be found on th
 
 OnionShare supports Windows, Linux as well as MacOS. It is available for download in [https://onionshare.org/#download](https://onionshare.org/#download) and the Windows and Mac setups are signed by Micah Lee, the core developer, using his PGP public key with fingerprint 927F419D7EC82C2F149C1BD1403C2657CD994F73.
 
-Step By Step Guide For Windows
+Step By Step Guide For Windows:
 
 - Go to [https://onionshare.org/#download](https://onionshare.org/#download) and download the Windows setup, the .msi file is around 72MB
 
