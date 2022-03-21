@@ -44,9 +44,7 @@ Because of this, the sender must communicate the Onionshare URL using a more sec
 
 OnionShare is provided under the GNU General Public License, it is an open-source tool available to be downloaded for free. As it is open source, anyone is allowed to collaborate with OnionShare’s team to discuss the project, ask questions and share their ideas.
 
-Developers can contribute code to OnionShare, the source code can be found on this Git repository:
-
-[https://github.com/onionshare/onionshare](https://github.com/onionshare/onionshare)<br><br>
+Developers can contribute code to OnionShare, the source code can be found on this Git repository: [https://github.com/onionshare/onionshare](https://github.com/onionshare/onionshare)<br><br>
 
 
 # Installation guide
