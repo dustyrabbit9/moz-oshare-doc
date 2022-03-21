@@ -1,3 +1,5 @@
+
+
 # Introduction
 
 Onion Share is an open source tool which can be used to share or receive files, host a website and communicate with your friends anonymously. You can create temporary meeting rooms to discuss information and the most valuable thing is users don’t require accounts. This tool (Onion Share) uses Tor network to do above things and Tor Onion services to establish web servers locally in your machine. Simply Tor can be called as "The Onion Router" and it is also an open source browser which acts as a barrier and stands to prevent outside access like someone going to see what are you looking for etc. So Tor is really helpful for go through the Internet anonymously. Onion Share web address is protected by default with a random password.
@@ -64,9 +66,9 @@ Step By Step Guide For Windows
 
 **Contributors:**
 
-Imran Rasheed (/dustyrabbit9)
+Imran Rasheed [(/dustyrabbit9)](https://github.com/dustyrabbit9)
 
-Navin Thamindu (/navintc)
+Navin Thamindu [(/navintc)](https://github.com/navintc)
 
 Yashmi Pokunegoda
 
