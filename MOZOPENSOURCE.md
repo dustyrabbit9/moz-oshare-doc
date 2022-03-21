@@ -62,14 +62,14 @@ Step By Step Guide For Windows
 #  
 <br>
 
-## Contributors:
+**Contributors:**
 
-**Imran Rasheed** (/dustyrabbit9)
+Imran Rasheed (/dustyrabbit9)
 
-**Navin Thamindu** (/navintc)
+Navin Thamindu (/navintc)
 
-**Yashmi Pokunegoda**
+Yashmi Pokunegoda
 
-**Imanthi Abeyrathne**
+Imanthi Abeyrathne
 
 </p>
