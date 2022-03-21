@@ -70,17 +70,47 @@ Step By Step Guide For Windows:
 ## General Setup
 
 1. First of all, we have to run Tor browser and keep it running in the background.
+
 2. Then open OnionShare and wait for it to complete configuration. -Once the configuring is finished it will show the 'New Tab' screen of onionShare
 
 ![New Tab](img/2.png "'New Tab' screen")
 
 ## How to Share Files
 
+1. To share files, click on Share files button and open the share files page.
 
+2. Click on add button and Select the files you need to share.
+![Select Files](img/3.png "Select Files")
+ 
+3. In the next screen, you can add more files to share. Furthermore, you can allow public access to the files if necessary. Once the files are finished adding, click on `Start Sharing`
+![Settings](img/4.png "Settings")
 
+4. Now the files can be accessed via any Tor Browser in the world by using the `onion` address which is displayed in this window
+![Sharing](img/4.png "Sharing")
+
+5. Copy the private key and paste it into the alert box that pops up when loading the onion page in Tor.
+![Private key](img/4.png "Private key")
+
+6. Finally, you can Download the shared files through this page by clicking on `Download Files`
+![Download Files](img/4.png "Download Files")
 
 ## How to Recieve Files
 
+1. To Recieve files, click on Recieve files button and open the Recieve files page.
+
+2. In the next screen, you can allow public access to send files to you if necessary, and state the location where you need to save the files. Once the setting up is finished , click on `Start Recieving mode`
+![Start Recieving](img/8.png "Start Recieving")
+
+3. Now, users can send you files via any Tor Browser in the world by using the `onion` address which is displayed in this window
+![Onion link](img/9.png "Onion link")
+
+4. Copy the private key and paste it into the alert box that pops up when loading the onion page in Tor.
+![Private key](img/4.png "Private key")
+
+5. Finally, you can submit the files through this page by clicking on `Browse`
+![Submit Files](img/10.png "Submit Files")
+
+6. The recieved files would be saved in the location which was initially given. 
 
 
 <br><br>
