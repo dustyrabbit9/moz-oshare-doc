@@ -64,7 +64,7 @@ Step By Step Guide For Windows:
 
 **Contributors:**
 
-Imran Rasheed [(/dustyrabbit9)](https://github.com/dustyrabbit9)
+Imran Rasheed [(/dustyrabbit9)](https://github.com/dustyrabbit9) `Lead`
 
 Navin Thamindu [(/navintc)](https://github.com/navintc)
 
