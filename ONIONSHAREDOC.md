@@ -53,11 +53,37 @@ OnionShare supports Windows, Linux as well as MacOS. It is available for downloa
 
 Step By Step Guide For Windows:
 
-- Go to [https://onionshare.org/#download](https://onionshare.org/#download) and download the Windows setup, the .msi file is around 72MB
+- Go to [https://onionshare.org/#download](https://onionshare.org/#download) and download the OnionShare Windows setup, the .msi file is around 72MB
 
 - Read the OnionShare license agreements and accept the terms to proceed.
 
-- Click the Install button and the Installation may take a few minutes. // user<br><br>
+- Click the Install button and the Installation may take a few minutes.
+
+- Go to [https://www.torproject.org/download/](https://www.torproject.org/download/) and download the Tor Browser Windows setup
+
+- Read the OnionShare license agreements, accept the terms to proceed and Click the Install button to install. 
+
+<br><br>
+
+# How to Use 
+
+## General Setup
+
+1. First of all, we have to run Tor browser and keep it running in the background.
+2. Then open OnionShare and wait for it to complete configuration. -Once the configuring is finished it will show the 'New Tab' screen of onionShare
+
+![New Tab](img/2.png "'New Tab' screen")
+
+## How to Share Files
+
+
+
+
+## How to Recieve Files
+
+
+
+<br><br>
   
 #  
 <br>
@@ -68,8 +94,10 @@ Imran Rasheed [(/dustyrabbit9)](https://github.com/dustyrabbit9) `Lead`
 
 Navin Thamindu [(/navintc)](https://github.com/navintc)
 
-Yashmi Pokunegoda
+Thedani Dissanayake [(/Thed96)](https://github.com/Thed96)
 
-Imanthi Abeyrathne
+Yashmi Pokunegoda [(/yashmii)](https://github.com/Yashmii)
+
+Imanthi Abeyrathne [(/Imanthi55)](https://github.com/Imanthi55)
 
 </p>
