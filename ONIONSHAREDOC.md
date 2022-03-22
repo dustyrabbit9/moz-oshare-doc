@@ -67,15 +67,15 @@ Step By Step Guide For Windows:
 
 # How to Use 
 
-## General Setup
+### **General Setup**
 
 1. First of all, we have to run Tor browser and keep it running in the background.
 
 2. Then open OnionShare and wait for it to complete configuration. -Once the configuring is finished it will show the 'New Tab' screen of onionShare
 
-![New Tab](img/2.png "'New Tab' screen")
+![New Tab](img/2.png "'New Tab' screen")<br><br>
 
-## How to Share Files
+### **How to Share Files**
 
 1. To share files, click on Share files button and open the share files page.
 
@@ -92,9 +92,9 @@ Step By Step Guide For Windows:
 ![Private key](img/4.png "Private key")
 
 6. Finally, you can Download the shared files through this page by clicking on `Download Files`
-![Download Files](img/4.png "Download Files")
+![Download Files](img/4.png "Download Files")<br><br>
 
-## How to Recieve Files
+### **How to Recieve Files**
 
 1. To Recieve files, click on Recieve files button and open the Recieve files page.
 
